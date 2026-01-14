@@ -727,6 +727,8 @@ CMakeFiles/cam.dir/muon.cc.o: \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4UIbatch.hh \
  /home/Ryan-Diferensial/kuliah/shield/include/DetectorConstruction.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VUserDetectorConstruction.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4LogicalVolume.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4String.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/globals.hh \
  /home/Ryan-Diferensial/kuliah/shield/include/PhysicsList.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VModularPhysicsList.hh \

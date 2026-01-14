@@ -6,6 +6,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cam.dir/src/ActionInitialization.cc.o.d"
   "CMakeFiles/cam.dir/src/DetectorConstruction.cc.o"
   "CMakeFiles/cam.dir/src/DetectorConstruction.cc.o.d"
+  "CMakeFiles/cam.dir/src/DetectorMessenger.cc.o"
+  "CMakeFiles/cam.dir/src/DetectorMessenger.cc.o.d"
   "CMakeFiles/cam.dir/src/EventAction.cc.o"
   "CMakeFiles/cam.dir/src/EventAction.cc.o.d"
   "CMakeFiles/cam.dir/src/PhysicsList.cc.o"

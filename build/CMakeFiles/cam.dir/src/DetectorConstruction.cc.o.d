@@ -306,90 +306,6 @@ CMakeFiles/cam.dir/src/DetectorConstruction.cc.o: \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_vector.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_bvector.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/vector.tcc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/globals.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Material.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Element.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ElementTable.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ElementVector.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4IonisParamElm.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Isotope.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4IsotopeVector.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4IonisParamMat.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4DensityEffectCalculator.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4MaterialPropertiesTable.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4MaterialPropertiesIndex.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4MaterialPropertyVector.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsFreeVector.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsVector.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/fstream \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/x86_64-conda-linux-gnu/bits/basic_file.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/x86_64-conda-linux-gnu/bits/c++io.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/fstream.tcc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Log.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsVectorType.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsVector.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4MaterialTable.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4SandiaTable.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4OrderedTable.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4DataVector.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4DataVector.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Units/PhysicalConstants.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Units/defs.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Units/SystemOfUnits.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/x86_64-conda-linux-gnu/sysroot/usr/include/assert.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4NistManager.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ICRU90StoppingData.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Material.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4NistElementBuilder.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4NistMaterialBuilder.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Pow.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Exp.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Box.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4GeomTypes.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4GeomConfig.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4CSGSolid.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VSolid.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/geomdefs.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ThreeVector.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/ThreeVector.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/defs.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/ThreeVector.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VSolid.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Polyhedron.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/HepPolyhedron.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4TwoVector.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/TwoVector.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/TwoVector.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Point3D.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Point3D.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/defs.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/BasicVector3D.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Normal3D.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Normal3D.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Transform3D.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Transform3D.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Transform3D.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/Rotation.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationInterfaces.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/LorentzVector.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/LorentzVector.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/ZMxpv.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/AxisAngle.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/AxisAngle.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationInterfaces.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationX.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationX.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationY.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationY.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationZ.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationZ.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/Rotation.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Vector3D.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Visible.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Visible.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Box.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Tubs.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Tubs.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4LogicalVolume.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/memory \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_raw_storage_iter.h \
@@ -420,9 +336,94 @@ CMakeFiles/cam.dir/src/DetectorConstruction.cc.o: \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/this_thread_sleep.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Region.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VPhysicalVolume.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/geomdefs.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4RotationMatrix.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ThreeVector.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/ThreeVector.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/defs.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/ThreeVector.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/Rotation.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationInterfaces.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/LorentzVector.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/LorentzVector.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/ZMxpv.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/AxisAngle.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/AxisAngle.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationInterfaces.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationX.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationX.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Units/PhysicalConstants.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Units/defs.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Units/SystemOfUnits.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationY.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationY.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationZ.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationZ.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/Rotation.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VPhysicalVolume.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4LogicalVolume.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4String.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/globals.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Material.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Element.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ElementTable.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ElementVector.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4IonisParamElm.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Isotope.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4IsotopeVector.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4IonisParamMat.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4DensityEffectCalculator.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4MaterialPropertiesTable.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4MaterialPropertiesIndex.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4MaterialPropertyVector.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsFreeVector.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsVector.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/fstream \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/x86_64-conda-linux-gnu/bits/basic_file.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/x86_64-conda-linux-gnu/bits/c++io.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/fstream.tcc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Log.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsVectorType.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsVector.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4MaterialTable.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4SandiaTable.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4OrderedTable.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4DataVector.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4DataVector.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/x86_64-conda-linux-gnu/sysroot/usr/include/assert.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4NistManager.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ICRU90StoppingData.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Material.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4NistElementBuilder.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4NistMaterialBuilder.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Pow.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Exp.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Box.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4GeomTypes.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4GeomConfig.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4CSGSolid.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VSolid.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VSolid.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Polyhedron.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/HepPolyhedron.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4TwoVector.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/TwoVector.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/TwoVector.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Point3D.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Point3D.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/defs.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/BasicVector3D.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Normal3D.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Normal3D.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Transform3D.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Transform3D.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Transform3D.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Geometry/Vector3D.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Visible.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Visible.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Box.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Tubs.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Tubs.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PVPlacement.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4SystemOfUnits.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicalConstants.hh \
@@ -431,4 +432,11 @@ CMakeFiles/cam.dir/src/DetectorConstruction.cc.o: \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VisAttributes.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/graphics_reps_defs.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Color.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VisAttributes.icc
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VisAttributes.icc \
+ /home/Ryan-Diferensial/kuliah/shield/include/DetectorMessenger.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4UImessenger.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4UIdirectory.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4UIcommand.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ApplicationState.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4UIparameter.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4UIcmdWithAString.hh

@@ -5,6 +5,7 @@ cam: \
   CMakeFiles/cam.dir/muon.cc.o \
   CMakeFiles/cam.dir/src/ActionInitialization.cc.o \
   CMakeFiles/cam.dir/src/DetectorConstruction.cc.o \
+  CMakeFiles/cam.dir/src/DetectorMessenger.cc.o \
   CMakeFiles/cam.dir/src/EventAction.cc.o \
   CMakeFiles/cam.dir/src/PhysicsList.cc.o \
   CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o \
@@ -90,6 +91,8 @@ CMakeFiles/cam.dir/muon.cc.o:
 CMakeFiles/cam.dir/src/ActionInitialization.cc.o:
 
 CMakeFiles/cam.dir/src/DetectorConstruction.cc.o:
+
+CMakeFiles/cam.dir/src/DetectorMessenger.cc.o:
 
 CMakeFiles/cam.dir/src/EventAction.cc.o:
 

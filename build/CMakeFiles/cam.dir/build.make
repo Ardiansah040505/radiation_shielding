@@ -114,10 +114,24 @@ CMakeFiles/cam.dir/src/DetectorConstruction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cam.dir/src/DetectorConstruction.cc.s"
 	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/Ryan-Diferensial/kuliah/shield/src/DetectorConstruction.cc -o CMakeFiles/cam.dir/src/DetectorConstruction.cc.s
 
+CMakeFiles/cam.dir/src/DetectorMessenger.cc.o: CMakeFiles/cam.dir/flags.make
+CMakeFiles/cam.dir/src/DetectorMessenger.cc.o: /home/Ryan-Diferensial/kuliah/shield/src/DetectorMessenger.cc
+CMakeFiles/cam.dir/src/DetectorMessenger.cc.o: CMakeFiles/cam.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cam.dir/src/DetectorMessenger.cc.o"
+	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cam.dir/src/DetectorMessenger.cc.o -MF CMakeFiles/cam.dir/src/DetectorMessenger.cc.o.d -o CMakeFiles/cam.dir/src/DetectorMessenger.cc.o -c /home/Ryan-Diferensial/kuliah/shield/src/DetectorMessenger.cc
+
+CMakeFiles/cam.dir/src/DetectorMessenger.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/cam.dir/src/DetectorMessenger.cc.i"
+	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/Ryan-Diferensial/kuliah/shield/src/DetectorMessenger.cc > CMakeFiles/cam.dir/src/DetectorMessenger.cc.i
+
+CMakeFiles/cam.dir/src/DetectorMessenger.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/cam.dir/src/DetectorMessenger.cc.s"
+	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/Ryan-Diferensial/kuliah/shield/src/DetectorMessenger.cc -o CMakeFiles/cam.dir/src/DetectorMessenger.cc.s
+
 CMakeFiles/cam.dir/src/EventAction.cc.o: CMakeFiles/cam.dir/flags.make
 CMakeFiles/cam.dir/src/EventAction.cc.o: /home/Ryan-Diferensial/kuliah/shield/src/EventAction.cc
 CMakeFiles/cam.dir/src/EventAction.cc.o: CMakeFiles/cam.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cam.dir/src/EventAction.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cam.dir/src/EventAction.cc.o"
 	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cam.dir/src/EventAction.cc.o -MF CMakeFiles/cam.dir/src/EventAction.cc.o.d -o CMakeFiles/cam.dir/src/EventAction.cc.o -c /home/Ryan-Diferensial/kuliah/shield/src/EventAction.cc
 
 CMakeFiles/cam.dir/src/EventAction.cc.i: cmake_force
@@ -131,7 +145,7 @@ CMakeFiles/cam.dir/src/EventAction.cc.s: cmake_force
 CMakeFiles/cam.dir/src/PhysicsList.cc.o: CMakeFiles/cam.dir/flags.make
 CMakeFiles/cam.dir/src/PhysicsList.cc.o: /home/Ryan-Diferensial/kuliah/shield/src/PhysicsList.cc
 CMakeFiles/cam.dir/src/PhysicsList.cc.o: CMakeFiles/cam.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cam.dir/src/PhysicsList.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cam.dir/src/PhysicsList.cc.o"
 	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cam.dir/src/PhysicsList.cc.o -MF CMakeFiles/cam.dir/src/PhysicsList.cc.o.d -o CMakeFiles/cam.dir/src/PhysicsList.cc.o -c /home/Ryan-Diferensial/kuliah/shield/src/PhysicsList.cc
 
 CMakeFiles/cam.dir/src/PhysicsList.cc.i: cmake_force
@@ -145,7 +159,7 @@ CMakeFiles/cam.dir/src/PhysicsList.cc.s: cmake_force
 CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o: CMakeFiles/cam.dir/flags.make
 CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o: /home/Ryan-Diferensial/kuliah/shield/src/PrimaryGeneratorAction.cc
 CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o: CMakeFiles/cam.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o"
 	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o -MF CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o.d -o CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o -c /home/Ryan-Diferensial/kuliah/shield/src/PrimaryGeneratorAction.cc
 
 CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.i: cmake_force
@@ -159,7 +173,7 @@ CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.s: cmake_force
 CMakeFiles/cam.dir/src/RunAction.cc.o: CMakeFiles/cam.dir/flags.make
 CMakeFiles/cam.dir/src/RunAction.cc.o: /home/Ryan-Diferensial/kuliah/shield/src/RunAction.cc
 CMakeFiles/cam.dir/src/RunAction.cc.o: CMakeFiles/cam.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cam.dir/src/RunAction.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cam.dir/src/RunAction.cc.o"
 	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cam.dir/src/RunAction.cc.o -MF CMakeFiles/cam.dir/src/RunAction.cc.o.d -o CMakeFiles/cam.dir/src/RunAction.cc.o -c /home/Ryan-Diferensial/kuliah/shield/src/RunAction.cc
 
 CMakeFiles/cam.dir/src/RunAction.cc.i: cmake_force
@@ -173,7 +187,7 @@ CMakeFiles/cam.dir/src/RunAction.cc.s: cmake_force
 CMakeFiles/cam.dir/src/SteppingAction.cc.o: CMakeFiles/cam.dir/flags.make
 CMakeFiles/cam.dir/src/SteppingAction.cc.o: /home/Ryan-Diferensial/kuliah/shield/src/SteppingAction.cc
 CMakeFiles/cam.dir/src/SteppingAction.cc.o: CMakeFiles/cam.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cam.dir/src/SteppingAction.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cam.dir/src/SteppingAction.cc.o"
 	/home/Ryan-Diferensial/miniconda3/envs/G4/bin/x86_64-conda-linux-gnu-c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/cam.dir/src/SteppingAction.cc.o -MF CMakeFiles/cam.dir/src/SteppingAction.cc.o.d -o CMakeFiles/cam.dir/src/SteppingAction.cc.o -c /home/Ryan-Diferensial/kuliah/shield/src/SteppingAction.cc
 
 CMakeFiles/cam.dir/src/SteppingAction.cc.i: cmake_force
@@ -189,6 +203,7 @@ cam_OBJECTS = \
 "CMakeFiles/cam.dir/muon.cc.o" \
 "CMakeFiles/cam.dir/src/ActionInitialization.cc.o" \
 "CMakeFiles/cam.dir/src/DetectorConstruction.cc.o" \
+"CMakeFiles/cam.dir/src/DetectorMessenger.cc.o" \
 "CMakeFiles/cam.dir/src/EventAction.cc.o" \
 "CMakeFiles/cam.dir/src/PhysicsList.cc.o" \
 "CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o" \
@@ -201,6 +216,7 @@ cam_EXTERNAL_OBJECTS =
 cam: CMakeFiles/cam.dir/muon.cc.o
 cam: CMakeFiles/cam.dir/src/ActionInitialization.cc.o
 cam: CMakeFiles/cam.dir/src/DetectorConstruction.cc.o
+cam: CMakeFiles/cam.dir/src/DetectorMessenger.cc.o
 cam: CMakeFiles/cam.dir/src/EventAction.cc.o
 cam: CMakeFiles/cam.dir/src/PhysicsList.cc.o
 cam: CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o
@@ -251,7 +267,7 @@ cam: /home/Ryan-Diferensial/miniconda3/envs/G4/lib/libG4global.so
 cam: /home/Ryan-Diferensial/miniconda3/envs/G4/lib/libG4ptl.so.3.0.0
 cam: /home/Ryan-Diferensial/miniconda3/envs/G4/lib/libCLHEP-2.4.7.1.so
 cam: CMakeFiles/cam.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable cam"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable cam"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cam.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

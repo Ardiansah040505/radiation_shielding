@@ -315,31 +315,42 @@ CMakeFiles/cam.dir/src/EventAction.cc.o: \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_vector.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_bvector.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/vector.tcc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Event.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/set \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_set.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_multiset.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/evtdefs.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Allocator.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4AllocatorPool.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PrimaryVertex.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PrimaryParticle.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4LogicalVolume.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/memory \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_raw_storage_iter.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/align.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/unique_ptr.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/shared_ptr.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/shared_ptr_base.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/allocated_ptr.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/ext/concurrence.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/shared_ptr_atomic.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/atomic_base.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/atomic_lockfree_defines.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/backward/auto_ptr.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/pstl/glue_memory_defs.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Region.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4GeomSplitter.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/geomwdefs.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4AutoLock.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Threading.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/chrono \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/condition_variable \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/future \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/atomic_futex.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/atomic \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/std_function.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/std_thread.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/thread \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/this_thread_sleep.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Region.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VPhysicalVolume.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/geomdefs.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4RotationMatrix.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ThreeVector.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/ThreeVector.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/defs.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/ThreeVector.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/pwdefs.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4HCofThisEvent.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VHitsCollection.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4DCofThisEvent.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VDigiCollection.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4TrajectoryContainer.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VTrajectory.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VUserEventInformation.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Step.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VPhysicalVolume.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/geomdefs.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4RotationMatrix.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/Rotation.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationInterfaces.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/LorentzVector.h \
@@ -358,27 +369,27 @@ CMakeFiles/cam.dir/src/EventAction.cc.o: \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationZ.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/RotationZ.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/CLHEP/Vector/Rotation.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4GeomSplitter.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/geomwdefs.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4AutoLock.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Threading.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/chrono \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/condition_variable \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/shared_ptr.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/shared_ptr_base.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/allocated_ptr.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/unique_ptr.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/ext/concurrence.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/future \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/atomic_base.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/atomic_lockfree_defines.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/atomic_futex.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/atomic \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/std_function.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/std_thread.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/thread \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/this_thread_sleep.h \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VPhysicalVolume.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4LogicalVolume.icc \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4String.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Event.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/set \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_set.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_multiset.h \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/evtdefs.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Allocator.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4AllocatorPool.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PrimaryVertex.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PrimaryParticle.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/pwdefs.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4HCofThisEvent.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VHitsCollection.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4DCofThisEvent.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VDigiCollection.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4TrajectoryContainer.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VTrajectory.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VUserEventInformation.hh \
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Step.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4StepPoint.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4SteppingControl.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4StepStatus.hh \
@@ -404,15 +415,6 @@ CMakeFiles/cam.dir/src/EventAction.cc.o: \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4NavigationHistoryPool.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4NavigationHistory.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4LogicalVolume.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/memory \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/stl_raw_storage_iter.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/align.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/bits/shared_ptr_atomic.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/backward/auto_ptr.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/lib/gcc/x86_64-conda-linux-gnu/14.3.0/include/c++/pstl/glue_memory_defs.h \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Region.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Region.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4LogicalVolume.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4TouchableHistory.icc \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4ReferenceCountedHandle.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Material.hh \
@@ -455,5 +457,4 @@ CMakeFiles/cam.dir/src/EventAction.cc.o: \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4VUserTrackInformation.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4PhysicsModelCatalog.hh \
  /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Track.icc \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Step.hh \
- /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4LogicalVolume.hh
+ /home/Ryan-Diferensial/miniconda3/envs/G4/include/Geant4/G4Step.hh
