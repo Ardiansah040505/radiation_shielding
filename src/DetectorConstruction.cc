@@ -9,15 +9,44 @@
 #include "G4PhysicalConstants.hh"
 #include "G4Color.hh"
 #include "G4VisAttributes.hh"
+#include "DetectorMessenger.hh"
 
 
 DetectorConstruction::DetectorConstruction()
-    : G4VUserDetectorConstruction(),
-    fDetectorLV(nullptr)
-    {}
+: G4VUserDetectorConstruction(),
+  fPumiceType(PumiceType::Ijobalit),
+  fDetectorLV(nullptr),
+  fMessenger(nullptr)
+
+    {
+        fMessenger = new DetectorMessenger(this);
+    }
 
 DetectorConstruction::~DetectorConstruction()
-{}
+{
+
+    delete fMessenger;
+}
+
+void DetectorConstruction::SetPumiceType(const G4String& name)
+    {
+        if (name == "Ijobalit"){
+            fPumiceType = PumiceType::Ijobalit;            
+        }else if (name == "Setangi"){
+            fPumiceType = PumiceType::Setangi;
+        }else if (name == "Lingsar"){
+            fPumiceType = PumiceType::Lingsar;
+        }else {
+            G4Exception(
+                "DetectorConstruction::SetPumiceType",
+                "InvalidPumiceType",
+                FatalException,
+                "Pumice type not recognized!"
+            );
+        }
+        
+    }
+
 
 G4VPhysicalVolume* DetectorConstruction::Construct()
 {
