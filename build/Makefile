@@ -117,24 +117,24 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named cam
+# Target rules for targets named muon
 
 # Build rule for target.
-cam: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cam
-.PHONY : cam
+muon: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 muon
+.PHONY : muon
 
 # fast build rule for target.
-cam/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/build
-.PHONY : cam/fast
+muon/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/build
+.PHONY : muon/fast
 
 muon.o: muon.cc.o
 .PHONY : muon.o
 
 # target to build an object file
 muon.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/muon.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/muon.cc.o
 .PHONY : muon.cc.o
 
 muon.i: muon.cc.i
@@ -142,7 +142,7 @@ muon.i: muon.cc.i
 
 # target to preprocess a source file
 muon.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/muon.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/muon.cc.i
 .PHONY : muon.cc.i
 
 muon.s: muon.cc.s
@@ -150,7 +150,7 @@ muon.s: muon.cc.s
 
 # target to generate assembly for a file
 muon.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/muon.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/muon.cc.s
 .PHONY : muon.cc.s
 
 src/ActionInitialization.o: src/ActionInitialization.cc.o
@@ -158,7 +158,7 @@ src/ActionInitialization.o: src/ActionInitialization.cc.o
 
 # target to build an object file
 src/ActionInitialization.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/ActionInitialization.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/ActionInitialization.cc.o
 .PHONY : src/ActionInitialization.cc.o
 
 src/ActionInitialization.i: src/ActionInitialization.cc.i
@@ -166,7 +166,7 @@ src/ActionInitialization.i: src/ActionInitialization.cc.i
 
 # target to preprocess a source file
 src/ActionInitialization.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/ActionInitialization.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/ActionInitialization.cc.i
 .PHONY : src/ActionInitialization.cc.i
 
 src/ActionInitialization.s: src/ActionInitialization.cc.s
@@ -174,7 +174,7 @@ src/ActionInitialization.s: src/ActionInitialization.cc.s
 
 # target to generate assembly for a file
 src/ActionInitialization.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/ActionInitialization.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/ActionInitialization.cc.s
 .PHONY : src/ActionInitialization.cc.s
 
 src/DetectorConstruction.o: src/DetectorConstruction.cc.o
@@ -182,7 +182,7 @@ src/DetectorConstruction.o: src/DetectorConstruction.cc.o
 
 # target to build an object file
 src/DetectorConstruction.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/DetectorConstruction.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/DetectorConstruction.cc.o
 .PHONY : src/DetectorConstruction.cc.o
 
 src/DetectorConstruction.i: src/DetectorConstruction.cc.i
@@ -190,7 +190,7 @@ src/DetectorConstruction.i: src/DetectorConstruction.cc.i
 
 # target to preprocess a source file
 src/DetectorConstruction.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/DetectorConstruction.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/DetectorConstruction.cc.i
 .PHONY : src/DetectorConstruction.cc.i
 
 src/DetectorConstruction.s: src/DetectorConstruction.cc.s
@@ -198,7 +198,7 @@ src/DetectorConstruction.s: src/DetectorConstruction.cc.s
 
 # target to generate assembly for a file
 src/DetectorConstruction.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/DetectorConstruction.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/DetectorConstruction.cc.s
 .PHONY : src/DetectorConstruction.cc.s
 
 src/DetectorMessenger.o: src/DetectorMessenger.cc.o
@@ -206,7 +206,7 @@ src/DetectorMessenger.o: src/DetectorMessenger.cc.o
 
 # target to build an object file
 src/DetectorMessenger.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/DetectorMessenger.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/DetectorMessenger.cc.o
 .PHONY : src/DetectorMessenger.cc.o
 
 src/DetectorMessenger.i: src/DetectorMessenger.cc.i
@@ -214,7 +214,7 @@ src/DetectorMessenger.i: src/DetectorMessenger.cc.i
 
 # target to preprocess a source file
 src/DetectorMessenger.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/DetectorMessenger.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/DetectorMessenger.cc.i
 .PHONY : src/DetectorMessenger.cc.i
 
 src/DetectorMessenger.s: src/DetectorMessenger.cc.s
@@ -222,7 +222,7 @@ src/DetectorMessenger.s: src/DetectorMessenger.cc.s
 
 # target to generate assembly for a file
 src/DetectorMessenger.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/DetectorMessenger.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/DetectorMessenger.cc.s
 .PHONY : src/DetectorMessenger.cc.s
 
 src/EventAction.o: src/EventAction.cc.o
@@ -230,7 +230,7 @@ src/EventAction.o: src/EventAction.cc.o
 
 # target to build an object file
 src/EventAction.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/EventAction.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/EventAction.cc.o
 .PHONY : src/EventAction.cc.o
 
 src/EventAction.i: src/EventAction.cc.i
@@ -238,7 +238,7 @@ src/EventAction.i: src/EventAction.cc.i
 
 # target to preprocess a source file
 src/EventAction.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/EventAction.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/EventAction.cc.i
 .PHONY : src/EventAction.cc.i
 
 src/EventAction.s: src/EventAction.cc.s
@@ -246,7 +246,7 @@ src/EventAction.s: src/EventAction.cc.s
 
 # target to generate assembly for a file
 src/EventAction.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/EventAction.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/EventAction.cc.s
 .PHONY : src/EventAction.cc.s
 
 src/PhysicsList.o: src/PhysicsList.cc.o
@@ -254,7 +254,7 @@ src/PhysicsList.o: src/PhysicsList.cc.o
 
 # target to build an object file
 src/PhysicsList.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/PhysicsList.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/PhysicsList.cc.o
 .PHONY : src/PhysicsList.cc.o
 
 src/PhysicsList.i: src/PhysicsList.cc.i
@@ -262,7 +262,7 @@ src/PhysicsList.i: src/PhysicsList.cc.i
 
 # target to preprocess a source file
 src/PhysicsList.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/PhysicsList.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/PhysicsList.cc.i
 .PHONY : src/PhysicsList.cc.i
 
 src/PhysicsList.s: src/PhysicsList.cc.s
@@ -270,7 +270,7 @@ src/PhysicsList.s: src/PhysicsList.cc.s
 
 # target to generate assembly for a file
 src/PhysicsList.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/PhysicsList.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/PhysicsList.cc.s
 .PHONY : src/PhysicsList.cc.s
 
 src/PrimaryGeneratorAction.o: src/PrimaryGeneratorAction.cc.o
@@ -278,7 +278,7 @@ src/PrimaryGeneratorAction.o: src/PrimaryGeneratorAction.cc.o
 
 # target to build an object file
 src/PrimaryGeneratorAction.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/PrimaryGeneratorAction.cc.o
 .PHONY : src/PrimaryGeneratorAction.cc.o
 
 src/PrimaryGeneratorAction.i: src/PrimaryGeneratorAction.cc.i
@@ -286,7 +286,7 @@ src/PrimaryGeneratorAction.i: src/PrimaryGeneratorAction.cc.i
 
 # target to preprocess a source file
 src/PrimaryGeneratorAction.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/PrimaryGeneratorAction.cc.i
 .PHONY : src/PrimaryGeneratorAction.cc.i
 
 src/PrimaryGeneratorAction.s: src/PrimaryGeneratorAction.cc.s
@@ -294,7 +294,7 @@ src/PrimaryGeneratorAction.s: src/PrimaryGeneratorAction.cc.s
 
 # target to generate assembly for a file
 src/PrimaryGeneratorAction.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/PrimaryGeneratorAction.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/PrimaryGeneratorAction.cc.s
 .PHONY : src/PrimaryGeneratorAction.cc.s
 
 src/RunAction.o: src/RunAction.cc.o
@@ -302,7 +302,7 @@ src/RunAction.o: src/RunAction.cc.o
 
 # target to build an object file
 src/RunAction.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/RunAction.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/RunAction.cc.o
 .PHONY : src/RunAction.cc.o
 
 src/RunAction.i: src/RunAction.cc.i
@@ -310,7 +310,7 @@ src/RunAction.i: src/RunAction.cc.i
 
 # target to preprocess a source file
 src/RunAction.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/RunAction.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/RunAction.cc.i
 .PHONY : src/RunAction.cc.i
 
 src/RunAction.s: src/RunAction.cc.s
@@ -318,7 +318,7 @@ src/RunAction.s: src/RunAction.cc.s
 
 # target to generate assembly for a file
 src/RunAction.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/RunAction.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/RunAction.cc.s
 .PHONY : src/RunAction.cc.s
 
 src/SteppingAction.o: src/SteppingAction.cc.o
@@ -326,7 +326,7 @@ src/SteppingAction.o: src/SteppingAction.cc.o
 
 # target to build an object file
 src/SteppingAction.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/SteppingAction.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/SteppingAction.cc.o
 .PHONY : src/SteppingAction.cc.o
 
 src/SteppingAction.i: src/SteppingAction.cc.i
@@ -334,7 +334,7 @@ src/SteppingAction.i: src/SteppingAction.cc.i
 
 # target to preprocess a source file
 src/SteppingAction.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/SteppingAction.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/SteppingAction.cc.i
 .PHONY : src/SteppingAction.cc.i
 
 src/SteppingAction.s: src/SteppingAction.cc.s
@@ -342,7 +342,7 @@ src/SteppingAction.s: src/SteppingAction.cc.s
 
 # target to generate assembly for a file
 src/SteppingAction.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/cam.dir/build.make CMakeFiles/cam.dir/src/SteppingAction.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muon.dir/build.make CMakeFiles/muon.dir/src/SteppingAction.cc.s
 .PHONY : src/SteppingAction.cc.s
 
 # Help Target
@@ -353,7 +353,7 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... cam"
+	@echo "... muon"
 	@echo "... muon.o"
 	@echo "... muon.i"
 	@echo "... muon.s"

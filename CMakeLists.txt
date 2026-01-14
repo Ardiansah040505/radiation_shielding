@@ -32,12 +32,12 @@ file(GLOB SOURCES
 # =========================================================
 # Executable
 # =========================================================
-add_executable(cam
+add_executable(muon
     muon.cc
     ${SOURCES}
 )
 
-target_link_libraries(cam
+target_link_libraries(muon
     ${Geant4_LIBRARIES}
 )
 
