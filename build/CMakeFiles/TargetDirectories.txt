@@ -1,0 +1,3 @@
+/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles/cam.dir
+/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles/edit_cache.dir
+/home/Ryan-Diferensial/kuliah/shield/build/CMakeFiles/rebuild_cache.dir
